@@ -1,6 +1,6 @@
 # Onebridge Stalwart · Plano de Marketing
 
-Versão 1 · 2026-09-11 · Construído a partir de marketing-strategy.md v2 e icp-and-core-messages.md v4
+Versão 2 · 2026-09-30 · Construído a partir de marketing-strategy.md v2 e icp-and-core-messages.md v5
 
 ## O que é este documento
 
@@ -10,11 +10,11 @@ Não é uma lista de tarefas, um calendário nem um orçamento.
 
 ## Como as peças se encaixam
 
-O programa de parceiros é a aposta. Três motores o fazem funcionar: um encontra firmas parceiras e inicia conversas, um as filtra, um as mantém aquecidas até o momento delas. A fundação, nosso site e nossos perfis, existe para que uma firma que ouviu falar de nós por um fundador encontre a mesma história quando for nos pesquisar. Ao lado de tudo isso corre a exceção: um pequeno esforço pago voltado a famílias e empresas que já estão buscando o que fazemos. É outro comprador, com outra oferta e seu próprio filtro. Ele divide com a aposta o site e nada mais.
+O programa de parceiros é a aposta. Três motores o fazem funcionar: um encontra firmas parceiras e inicia conversas, um as filtra, um as mantém aquecidas até o momento delas. A fundação, nosso site e nossos perfis, existe para que uma firma que ouviu falar de nós por um fundador encontre a mesma história quando for nos pesquisar. O canal direto para famílias e empresas continua válido, e a fundação serve também a quem chega por ele: uma família ou uma empresa que nos pesquisa entende o que fazemos por ela. Ao lado de tudo isso corre a exceção: um pequeno esforço pago voltado a famílias e empresas que já estão buscando o que fazemos. É outro comprador, com outra oferta e seu próprio filtro. Ele divide com a aposta o site e nada mais.
 
 | # · Artefato | Papel na estratégia | Atende quem |
 |---|---|---|
-| 1 Site · 2 Instagram · 3 LinkedIn | A fundação | Parceiros e famílias que nos pesquisam. O LinkedIn também sustenta a abordagem |
+| 1 Site · 2 Instagram · 3 LinkedIn | A fundação | Parceiros, famílias e empresas que nos pesquisam. O LinkedIn também sustenta a abordagem |
 | 4 Programa de parceiros | A aposta | A firma que vende holding familiar a famílias empresárias |
 | 5 Geração de leads · 6 Qualificação de leads · 7 Nutrição de leads | Motores da aposta | Apenas firmas parceiras |
 | 8 Busca de alta intenção · 9 Remarketing | A exceção | Famílias e empresas que já estão buscando, com filtro próprio |
@@ -65,12 +65,12 @@ Cada artefato abaixo segue o mesmo formato: o que é, por que existe, o que prec
 
 **O que precisa fazer.**
 - Perfis que confirmem a história. O fundador que conduz as conversas de venda lidera. O sócio fundador que é advogado registrado na OAB aparece como a camada licenciada e revisa tudo que se apoie em sua credencial.
-- Poucas peças de autoridade sobre a escada da Holding nos EUA e sobre a pergunta do parceiro. O suficiente para ser verificado, não um programa. Algumas peças podem ser escritas com o sócio investidor.
+- Poucas peças de autoridade sobre o valor que entregamos ao cliente final, famílias e empresas em igual peso: a proteção e a sucessão da família, a estrutura da empresa que vai para os EUA, com a Holding nos EUA como o exemplo mais comum e não como o único assunto. Uma família ou uma empresa que as lê entende o que fazemos por ela; o escritório que as lê entende como resolvemos o problema do cliente dele. Mais algumas peças marcadas "Para escritórios", com as duas ideias que abrem a conversa de parceria: seu cliente já está perguntando, e o cliente continua seu. O suficiente para ser verificado, não um programa. Algumas peças podem ser escritas com o sócio investidor.
 - Uma página da empresa coerente com o site.
 
-**O que não pode virar.** Abordagem fria a famílias. Conteúdo por conteúdo. Anúncios pagos para parceiros.
+**O que não pode virar.** Abordagem fria a famílias. Conteúdo por conteúdo. Anúncios pagos para parceiros. Uma vitrine do programa de parceiros.
 
-**Conecta-se a** 4 pela mensagem, 5 pela verificação e pelo contato, 7 para manter presença.
+**Conecta-se a** 4 pela credibilidade, 5 pela verificação e pelo contato, 7 para manter presença.
 
 ## Parte II · A aposta
 
