@@ -8,14 +8,14 @@ A Onebridge é uma marca nova carregada por um time com mais de dez anos entre B
 
 ## O que queremos
 
-Uma aposta, mantida até funcionar: um programa de parceiros, vendido a um único tipo de parceiro, com um produto principal, alcançado de uma única forma. As vendas diretas na nossa rede continuam por conta própria. Site, perfis e conteúdo são prova para quem nos pesquisa, não canal. Um canal precisa de muitas repetições até funcionar, e um time do nosso tamanho só consegue dá-las a um.
+Uma aposta, mantida até funcionar: um programa de parceiros, vendido a um único tipo de parceiro, com um produto principal, alcançado de uma única forma. As vendas diretas na nossa rede continuam por conta própria. Site, perfis e conteúdo são prova para quem nos pesquisa, não canal. Um canal precisa de muitas repetições até funcionar, e um time do nosso tamanho só consegue dá-las a um canal.
 
 ## No que acreditamos
 
 - **Clientes compram confiança, não estruturas.** Avaliam as pessoas, pela palavra de quem indicou.
 - **O consultor que montou a holding brasileira é a ponte.** É a ele que a família pergunta sobre os Estados Unidos. Hoje ele recusa a pergunta e perde o cliente de vista.
 - **Somos comparados a instituições**, grandes escritórios, Big Four e bancos privados. Vencemos como um time único e responsável. Perdemos quando parecemos uma máquina de leads.
-- **Privacidade faz parte do produto.** Nossa prova são credenciais, método, números e padrões de casos que ninguém reconhece.
+- **Privacidade faz parte do produto.** Nossa prova são credenciais, método, números e casos que ninguém reconhece.
 
 ## Quem atendemos
 
@@ -31,11 +31,11 @@ Empresas que abrem operação nos EUA são atendidas diretamente, não perseguid
 
 **A exceção.** Um pequeno esforço pago em buscas de intenção clara, mais remarketing, mantido só enquanto uma boa conversa custar claramente menos do que vale um cliente.
 
-Em todas as frentes, ninguém chega a uma conversa de vendas sem responder a algumas perguntas.
+Em toda frente, ninguém chega a uma conversa de vendas sem responder a algumas perguntas.
 
 ## Como vencemos
 
-Com parceiros, nesta ordem: o cliente continua seu; a plataforma, onde o parceiro pede e acompanha tudo sem e-mails nem ligações; e profundidade verificável, mais de dez anos e uma camada licenciada. Diante das instituições, o mesmo rigor em um time único, com escopo e preço definidos. Nunca citamos concorrente pelo nome.
+Com parceiros, nesta ordem: o cliente continua seu; a plataforma, onde o parceiro pede e acompanha tudo sem e-mails nem ligações; e profundidade verificável, mais de dez anos e uma camada licenciada. Diante das instituições, o mesmo rigor em um time único, com escopo e preço definidos, sem citar concorrente pelo nome.
 
 ## O que não fazemos
 

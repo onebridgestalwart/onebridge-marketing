@@ -6,7 +6,7 @@ Versão 2 · 2026-09-30 · Artefato 1 de plan/marketing-plan.md v3
 
 O site é fundação, não canal. As pessoas chegam porque um parceiro nos mencionou, um fundador escreveu, uma busca as trouxe ou um lembrete as fez voltar. Para elas, o site confirma a um escritório o que a mensagem do fundador disse, dá a uma família ou empresa uma superfície crível antes da conversa, e transforma tráfego pago em conversas agendadas, com um filtro no meio.
 
-Mantemos o site atual como base. O enquadramento é famílias versus empresas, mais fácil de entender do que proteção versus expansão. A home é terreno comum. Os parceiros têm a própria face.
+Mantemos o site atual como base. O enquadramento é famílias versus empresas, mais fácil de entender do que proteção versus expansão. A home é terreno comum.
 
 ## O que muda
 
@@ -38,7 +38,7 @@ Google Tag Manager, GA4, Google Ads e Meta Pixel com Conversions API pelo servid
 
 ## Conformidade com plataformas de anúncios
 
-O Google Ads e a Meta analisam as páginas de destino. O selo "60% menos impostos" sai e o contador fabricado vira número real ou ilustração rotulada. "Rentabilidade" e "LLC é blindagem" são reescritos. Imigração aparece como componente, nunca como oferta principal. "Escopo e preço" entra nas duas páginas de serviço: preço fixo por serviço cotado por escrito após o diagnóstico, compliance anual recorrente, CPAs por hora. Endereço físico em `/contato` e no rodapé.
+O Google Ads e a Meta analisam as páginas de destino. O selo "60% menos impostos" sai e o contador fabricado vira número real ou ilustração rotulada. "Rentabilidade" e "LLC é blindagem" são reescritos. Imigração aparece como componente, nunca como oferta principal. "Escopo e preço" entra nas páginas de serviço: preço fixo por serviço cotado por escrito após o diagnóstico, compliance anual recorrente. Endereço físico em `/contato` e no rodapé.
 
 ## Ordem de trabalho
 

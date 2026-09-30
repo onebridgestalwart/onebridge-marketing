@@ -12,7 +12,7 @@ Uma equipe única, em português, com mais de dez anos entre Brasil e EUA, que c
 
 ## Parceiros · a aposta
 
-**Quem.** O sócio-administrador de um escritório de contabilidade ou de advocacia boutique que já vende holding familiar a famílias empresárias com R$ 10 a 50 milhões. Seus clientes perguntam "e os Estados Unidos?" e ele responde "não fazemos". Teme perder o cliente para quem resolve a parte internacional e não tem tempo de montar uma operação nos EUA. Compra por relacionamento: vídeo, contrato, demo, reunião com um fundador, um primeiro caso. Não é o perfil quem quer só comissão de indicação ou não estrutura holdings.
+**Quem.** O sócio-administrador de um escritório de contabilidade ou de advocacia boutique que já vende holding familiar a famílias empresárias com R$ 10 a 50 milhões. Seus clientes perguntam "e os Estados Unidos?" e ele responde "não fazemos". Teme perder o cliente para quem resolve a parte internacional. Compra por relacionamento: vídeo, contrato, demo, reunião com um fundador, um primeiro caso. Não é o perfil quem quer só comissão de indicação ou não estrutura holdings.
 
 **Posicionamento.** A camada de execução em Orlando que acrescenta a Holding nos EUA ao que a firma já vende, sob a própria marca, mantendo o cliente e a própria margem, sem construir nada.
 
@@ -28,7 +28,7 @@ Uma equipe única, em português, com mais de dez anos entre Brasil e EUA, que c
 
 ## Empresas · a frente direta
 
-**Quem.** Dono ou CEO de empresa familiar com R$ 20 a 300 milhões de faturamento que tem, ou está prestes a ter, clientes, distribuidores ou fornecedores nos EUA. Não sabe por onde começar, teme bitributação e bancos que recusam contas, quer um plano por escrito. Relocação com E-2 ou L-1 é componente, não título: "se a família vai junto, a empresa vem antes." Startups e dropshippers não são o perfil.
+**Quem.** Dono ou CEO de empresa familiar com R$ 20 a 300 milhões de faturamento que tem, ou está prestes a ter, clientes ou fornecedores nos EUA. Não sabe por onde começar, teme bitributação, quer um plano por escrito. Relocação com E-2 ou L-1 é componente, não título: "se a família vai junto, a empresa vem antes." Startups e dropshippers não são o perfil.
 
 **Posicionamento.** A equipe que desenha e conduz a estrutura da operação, da entidade e do banco ao desenho tributário e ao compliance anual, para que o dono nunca precise aprender o sistema americano.
 
@@ -44,4 +44,4 @@ Uma equipe única, em português, com mais de dez anos entre Brasil e EUA, que c
 | CTA | Vídeo, depois conversa com um fundador | Pelo parceiro; direto, conversa confidencial | Diagnóstico da operação |
 | Não dizer | Revenda; datas do white-label | Blindagem, paraíso fiscal, sem impostos, retornos | Visto garantido, abra em 24h |
 
-Objeções de cada público, títulos e linhas de apoio ficam em `content/`.
+Objeções, títulos e linhas de apoio ficam em `content/`.
