@@ -26,12 +26,12 @@ Perfis em pt-BR, coerentes com o site. Nenhuma recomendação de cliente, porque
 
 Peças que partem do problema do cliente final, assinadas em primeira pessoa por quem as escreveu. Famílias e empresas em igual número. A Holding nos EUA aparece como o exemplo mais comum, nunca como o único serviço.
 
-- **Famílias**: sucessão por instrumento, patrimônio fora do alcance de disputas, a Holding nos EUA em três passos, as dúvidas de toda família, uma estrutura que a família possui em vez de um produto de banco.
-- **Empresas**: abrir leva 15 dias e operar bem leva estrutura, Flórida ou Delaware por diagnóstico, tributação desenhada nos dois países, compliance anual com dono, relocação como componente.
+- **Famílias**: sucessão por instrumento, patrimônio fora do alcance de disputas, a Holding nos EUA em três passos, as dúvidas de toda família.
+- **Empresas**: abrir leva 15 dias e operar bem leva estrutura, Flórida ou Delaware por diagnóstico, tributação nos dois países, compliance anual com dono.
 - **Para todos**: padrões de casos anonimizados e a plataforma, onde a amplitude do catálogo aparece.
 - **Para escritórios**: poucas, marcadas na primeira linha, só com as duas ideias que abrem a conversa de parceria: seu cliente já está perguntando, e o cliente continua seu. Sem modelos, níveis ou preços. As únicas peças com chamada, para `/parceiros`.
 
-Samuel republica toda peça de Walter, para que o perfil que a firma confere mostre a base inteira. Evandro pode coassinar. A Oikos só é citada com o acordo dela. Texto e carrossel em PDF; nada produzido só para o LinkedIn.
+Samuel republica toda peça de Walter, para que o perfil que a firma confere mostre a base inteira. Evandro pode coassinar. Texto e carrossel em PDF; nada produzido só para o LinkedIn.
 
 ## Ritmo e mensagens
 
@@ -41,6 +41,6 @@ Mensagens e comentários recebem uma resposta de uma linha com o link da face ce
 
 ## Como vamos saber
 
-O LinkedIn se move com o primeiro sinal da estratégia: as firmas aceitam conversar. Lemos cliques nos links (UTM `linkedin / profile` e `linkedin / post`), sessões vindas do LinkedIn por face do site, visualizações do perfil de Samuel por empresa após cada leva de abordagem, e onde a firma nos conferiu, perguntado na reunião.
+O LinkedIn se move com o primeiro sinal da estratégia: as firmas aceitam conversar. Lemos cliques nos links (UTM `linkedin / profile` e `linkedin / post`), visualizações do perfil de Samuel por empresa após cada leva de abordagem, e onde a firma nos conferiu, perguntado na reunião.
 
 Antes da lista quente: perfis e página completos e três peças no ar (famílias, empresas, plataforma). Antes das listas frias: a base completa, o padrão de caso com consentimento, as peças para escritórios. Pendências: fotos e trajetórias, redação da credencial, aceite da Oikos, tamanho da base inicial. O texto de cada peça é redigido em `content/`.

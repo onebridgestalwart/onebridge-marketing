@@ -8,11 +8,11 @@ Define quem são os três públicos, o que cada um precisa ouvir e como se conec
 
 ## O que todo público ouve
 
-Uma equipe única, em português, com mais de dez anos entre Brasil e EUA, que coordena profissionais licenciados de ponta a ponta: um sócio fundador advogado na OAB, um parceiro contábil licenciado nos EUA que nunca é nomeado, a Oikos MFO para family office e investimentos, que é nomeada e a quem toda afirmação sobre investimento é atribuída. Método Conversa → Diagnóstico → Execução → Acompanhamento, visível na plataforma. Tudo declarado ao Banco Central e à Receita. Somos comparados a grandes escritórios, Big Four e private banks, nunca a vendedores de LLC, e contrastamos por estrutura, responsabilidade e independência, sem citar ninguém.
+Uma equipe única, em português, com mais de dez anos entre Brasil e EUA, que coordena profissionais licenciados: um sócio fundador advogado na OAB, um parceiro contábil licenciado nos EUA que nunca é nomeado, a Oikos MFO para investimentos, nomeada e dona de toda afirmação sobre investir. Método Conversa → Diagnóstico → Execução → Acompanhamento, visível na plataforma. Tudo declarado ao Banco Central e à Receita. Somos comparados a grandes escritórios, Big Four e private banks, e contrastamos por estrutura, responsabilidade e independência, sem citar ninguém.
 
 ## Parceiros · a aposta
 
-**Quem.** O sócio-administrador de um escritório de contabilidade ou de advocacia boutique que já vende holding familiar a famílias empresárias com R$ 10 a 50 milhões. Seus clientes perguntam "e os Estados Unidos?" e ele responde "não fazemos". Teme perder o cliente para quem resolve a parte internacional e não tem tempo de montar uma operação nos EUA. Compra por relacionamento: vídeo longo, contrato, demo da plataforma, reunião com um fundador, um primeiro caso. Não é o perfil quem quer só comissão de indicação ou não estrutura holdings.
+**Quem.** O sócio-administrador de um escritório de contabilidade ou de advocacia boutique que já vende holding familiar a famílias empresárias com R$ 10 a 50 milhões. Seus clientes perguntam "e os Estados Unidos?" e ele responde "não fazemos". Teme perder o cliente para quem resolve a parte internacional e não tem tempo de montar uma operação nos EUA. Compra por relacionamento: vídeo, contrato, demo, reunião com um fundador, um primeiro caso. Não é o perfil quem quer só comissão de indicação ou não estrutura holdings.
 
 **Posicionamento.** A camada de execução em Orlando que acrescenta a Holding nos EUA ao que a firma já vende, sob a própria marca, mantendo o cliente e a própria margem, sem construir nada.
 
@@ -20,7 +20,7 @@ Uma equipe única, em português, com mais de dez anos entre Brasil e EUA, que c
 
 ## Famílias · o cliente do parceiro
 
-**Quem.** Fundador ou herdeiro, 45 a 65 anos, dono de empresa operacional mais imóveis e ativos financeiros no Brasil, R$ 10 a 50 milhões, muitas vezes já com holding familiar. Sucessão conversada, não estruturada. Gatilhos: um processo ou uma morte no círculo, um filho indo para os EUA, notícia tributária ou eleitoral, o dólar. Decide com o cônjuge e consulta quem montou a holding. Acima de R$ 50 milhões, International Family Office com a Oikos.
+**Quem.** Fundador ou herdeiro, 45 a 65 anos, dono de empresa operacional mais imóveis no Brasil, R$ 10 a 50 milhões, muitas vezes já com holding familiar e sucessão não estruturada. Gatilhos: um processo ou uma morte no círculo, um filho indo para os EUA, notícia tributária ou eleitoral, o dólar. Decide com o cônjuge e consulta quem montou a holding. Acima de R$ 50 milhões, International Family Office com a Oikos.
 
 **Posicionamento.** A equipe única que coloca parte do patrimônio nos EUA, protegido da instabilidade e dos litígios brasileiros, pronto para crescer em dólar e para passar à próxima geração, declarado, sem mudar de onde a família vive.
 

@@ -21,11 +21,11 @@ Uma aposta, mantida até funcionar: um programa de parceiros, vendido a um únic
 
 O parceiro: uma firma de contabilidade ou advocacia que já vende holding familiar a famílias empresárias com R$ 10 a 50 milhões. Definida pelo que vende, não pela licença. Quer responder à pergunta sobre os EUA sob a própria marca, manter o cliente e ganhar receita sem montar nada. A família por trás dele é cliente do parceiro e quem a fundação precisa convencer.
 
-Empresas que abrem operação nos EUA são atendidas diretamente, não perseguidas. Não atendemos quem quer só uma LLC rápida nem quem quer esconder patrimônio.
+Empresas que abrem operação nos EUA são atendidas diretamente, não perseguidas. Não atendemos quem quer esconder patrimônio.
 
 ## Como chegamos até eles
 
-**A aposta.** O parceiro vende sob a própria marca, mantém o cliente por contrato, define o próprio preço, e nós entregamos de Orlando. Primeira venda sugerida: a Holding nos EUA para a família, depois a transferência de ativos, depois a ligação com a estrutura brasileira. Encontramos as firmas onde elas já vendem holding familiar, em público, e um fundador as aborda pessoalmente. Cada parceiro começa com um caso, na plataforma.
+**A aposta.** O parceiro vende sob a própria marca, mantém o cliente por contrato, define o próprio preço, e nós entregamos de Orlando. Primeira venda sugerida: a Holding nos EUA para a família, depois a transferência de ativos, depois a ligação com a estrutura brasileira. Encontramos as firmas onde elas já vendem holding familiar, e um fundador as aborda pessoalmente. Cada parceiro começa com um caso.
 
 **A frente de fundo.** As vendas diretas seguem pela rede, mais uma pergunta ao fim de cada caso: quem cuida da sua holding no Brasil?
 

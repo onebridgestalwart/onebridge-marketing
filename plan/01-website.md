@@ -15,7 +15,7 @@ Mantemos o site atual como base. O enquadramento é famílias versus empresas, m
 | Home | Duas portas, "Para famílias" e "Para empresas", no lugar dos cards de solução. Selos do hero revisados. Seção da plataforma sem link |
 | `/familias` (antes `/protecao-patrimonial`, com redirecionamento) | Guiada por benefícios: jurisdição estável, fora do alcance de bloqueios, sucessão por instrumento, pronto para crescer em dólar, tudo declarado. Provas, "Escopo e preço", fluxo na página |
 | `/empresas` (antes `/expansao-internacional`) | Linguagem de mercado e estabilidade no lugar de "sonho americano" e "rentabilidade". Imigração como componente. Provas, "Escopo e preço", fluxo na página |
-| `/parceiros` | Reconstruída na ordem em que vencemos: vídeo, o catálogo com a Holding nos EUA como primeira venda, os dois modelos, plataforma com link, profundidade, três etapas, one-pager atrás de um formulário curto, fluxo na página |
+| `/parceiros` | Reconstruída na ordem em que vencemos: vídeo, catálogo com a Holding nos EUA como primeira venda, dois modelos, plataforma com link, profundidade, três etapas, one-pager atrás de formulário curto, fluxo na página |
 | `/plataforma` | Nova. Só para parceiros, com link apenas em `/parceiros`. Telas reais. White-label a caminho, sem data |
 | `/quem-somos` | Uma linha por fundador, com a credencial da OAB redigida por Walter. Marca anterior sem nome |
 | `/contato` | Roteador por público, carregando o fluxo da face escolhida. Endereço completo |
@@ -24,7 +24,7 @@ Mantemos o site atual como base. O enquadramento é famílias versus empresas, m
 
 ## Perguntas e agendamento
 
-Um componente, três configurações. Três a cinco perguntas, uma decisão de adequação e, para quem se encaixa, a agenda da equipe comercial no Google Calendar na hora. Quem não se encaixa recebe uma resposta cortês e assíncrona; pedidos bem definidos vão ao catálogo da plataforma. Cada resposta e agendamento entra no CRM com público, adequação e origem.
+Três a cinco perguntas, uma decisão de adequação e, para quem se encaixa, a agenda da equipe comercial no Google Calendar na hora. Quem não se encaixa recebe uma resposta cortês e assíncrona; pedidos bem definidos vão ao catálogo da plataforma. Tudo entra no CRM com público, adequação e origem.
 
 | Caminho | Perguntas | CTA |
 |---|---|---|
@@ -42,6 +42,6 @@ O Google Ads e a Meta analisam as páginas de destino. O selo "60% menos imposto
 
 ## Ordem de trabalho
 
-Primeiro a face de parceiros, porque condiciona a abordagem. Depois a frente direta, porque condiciona a busca. Por fim navegação e `/quem-somos`. Está pronto quando um escritório que recebeu a mensagem de um fundador encontra a mesma mensagem em `/parceiros`, cada face agenda na hora e grava no CRM com origem, as conversões disparam com consentimento respeitado e Walter revisou credencial e respostas tributárias. Depois deixamos o site em paz.
+Primeiro a face de parceiros, porque condiciona a abordagem. Depois a frente direta, porque condiciona a busca. Por fim navegação e `/quem-somos`. Está pronto quando um escritório que recebeu a mensagem de um fundador encontra a mesma mensagem em `/parceiros`, cada face agenda na hora e grava no CRM com origem, e Walter revisou credencial e respostas tributárias. Depois deixamos o site em paz.
 
 Pendências: endereço em Orlando, agenda da equipe comercial, vídeo e one-pager, redação da credencial, telas da plataforma. O texto de cada página é redigido em `content/`.

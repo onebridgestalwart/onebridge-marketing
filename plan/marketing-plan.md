@@ -15,8 +15,6 @@ A estratégia diz em que apostamos. Este plano diz o que construímos para execu
 | 5 Geração · 6 Qualificação · 7 Nutrição de leads | Motores da aposta | Apenas firmas parceiras |
 | 8 Busca de alta intenção · 9 Remarketing | A exceção | Famílias e empresas que já buscam |
 
-A fundação existe para que quem nos pesquisa encontre a mesma história que ouviu. Os motores encontram firmas, filtram e mantêm aquecidas. A exceção tem outro comprador e filtro próprio, e divide com a aposta apenas o site.
-
 ## A fundação
 
 **1 · Site.** Uma face para famílias, uma para empresas e uma para parceiros. Cada face faz de três a cinco perguntas de qualificação e agenda na hora quem se encaixa. A face de parceiros diz o que a abordagem diz e abriga o vídeo longo.
